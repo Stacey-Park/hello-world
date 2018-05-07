@@ -2,4 +2,4 @@
      height = "130" width = "500">  
      
      
-![](https://github.com/lzim/teampsd/blob/teampsd_style/ModelingToLearn_logo1.svg) 
+![](https://rawgit.com/lzim/teampsd/blob/teampsd_style/ModelingToLearn_logo1.svg) 
