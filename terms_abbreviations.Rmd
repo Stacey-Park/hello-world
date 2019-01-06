@@ -1,0 +1,83 @@
+---
+title: "terms_abbreviations.rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Terms and Abbreviations   
+GMH, SMH, PC PCMHI
+**ATS**: Addiction Treatment Services  
+**AUD**: Alcohol Use Disorder  
+**BHIP**: Behavioral Health Integration Project  
+**BISL**: Business Intelligence Service Line  
+**CBOC**: Community Based Outpatient Clinic  
+**CC**: Care Coordination  
+**CPRS**: Computerized Patient Record System  
+**CPT Code**: Current Procedural Terminology Code i.e. 90832
+**Data UI**: Data user-interface 
+**EBP**: Evidence-Based Practices  
+**EBPharm**: Evidence-Based Pharmacotherapy  
+**EBPsy**: Evidence-Based Psychotherapy  
+**EES**: Employee Education Services  
+**IACUC**: Institutional Animal Care and Use Committee  
+**INAPS**: International Association of Peer Supporters  
+**IOP**: Intensive Outpatient Program  
+**IPA**: Intergovernmental Personnel Act    
+**IRB**: Institutional Review Board  
+**JPA**: Joint Personnel Agreement  
+**LD**: Livermore Division  
+**MAT**: Medication Assisted Therapy  
+**MHICM**: Mental Health Intensive Case Management  
+**MHTC**: Mental Health Treatment Coordinators  
+**MIRECC**: Mental Illness Research, Education, and Clinical Center  
+**MM**: Medication Management  
+**MPD**: Menlo Park Division  
+**NAVREF**: National Association of Veteran's Research and Education Foundations  
+**NBCC**: National Board for Certified Counselors  
+**NCPTSD-DT**: National Center for Posttraumatic Stress Disorder, Dissemination & Training  
+**NIH**: National Institutes of Health  
+**OGC**: Office of General Counsel  
+**OMB**: Office of Management & Budget  
+**OMHO**: Office of Mental Health Operations (now **OMHSP**)  
+**OMHSP**: Office of Mental Health & Suicide Prevention (previously **OMHO**)  
+**OPM**: Office of Personnel Management  
+**ORO**: Office of Research Oversight  
+**OUD**: Opioid Use Disorder  
+ 
+**PCP**: Primary Care PHysician  
+**PCT**: PTSD Clinical Team  
+**PE**: Prolonged Exposure  
+**PERC**: Program Evaluation and Resource Center  
+**PHI**: Protected Health Information  
+**PI**: Prinicipal Investigator  
+**PSA**: Personal Services Agreement  
+**PSD**: Participatory System Dynamics   
+**QI**: Quality Improvement  
+**R&DC**:  Research and Development Committee  
+**RDIS**: Research and Development Information System  
+**rJPA**: Reverse Joint Personnel Agreement  
+**SAIL**: Strategic Analytics for Improvement and Learning  
+**Sankey**: A type of flow diagram where the width of the arrows are proportional to the flow quantity  
+**"Say File"**: GitHub file for the facilitators to read from  
+**"See File"**: GitHub file for learners to look at at  
+**SME**: Subject Matter Expert  
+**SMI**: Serious Mental Illness  
+**SRC**: Scientific Review Committee  
+**SRS**: Subcommittee on Research Safety  
+**SU**: Stanford University  
+**SUD**: Substance Use Disorder  
+**UI**: User Interface  
+**VA**: Veterans Affairs    
+**VAPAHCS**: Veterans Affairs Palo Alto Health Care System  
+**VAPOR**: Veterans Advisory Partnership for Operations and Research  
+**VERC**: Veterans Engineering Resource Center  
+**VHA**: Veterans Health Administration  
+**VISN**: Veterans Integrated Service Network  
+**VISTA**: Veterans Health Information Systems and Technology Architecture  
+**WCC**: Women's Counseling Center  
+**WRIISC**: War Related Illness & Injury Study Center  
+**WRVU**: Work Relative Value Unit  
+**X Waiver**: Needed to prescribe buprenorphine; must complete training and still limits # of patients per physician that can receive bup  
