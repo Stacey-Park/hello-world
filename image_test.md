@@ -1,5 +1,1 @@
-<img src = "https://raw.githubusercontent.com/lzim/teampsd/teampsd_style/mtl_logo/mtl_testdontguess_sm.png"
-     height = "130" width = "500">  
-     
-     
-![](https://raw.githubusercontent.com/lzim/teampsd/teampsd_style/mtl_logo/mtl_testdontguess_sm.png)
+<img src = https://github.com/staceypark/hello-world/blob/test_branch/ezgif_how_to_2.gif/>
